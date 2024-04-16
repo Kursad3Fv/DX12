@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Projeler\DX12Tutorial\Bin64\DX12Tutorial.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Projeler\DX12Tutorial\Data\Shaders\PosColor.PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Projeler\DX12Tutorial\Data\Shaders\PosColor.VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

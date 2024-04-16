@@ -1,3 +1,39 @@
+vs/
+
+# Visual Studio dosyalarını engelle
+*.suo
+*.user
+*.sln.cache
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.opendb
+*.VC.db
+*.obj
+*.pdb
+*.ilk
+*.aps
+*.pch
+*.exp
+*.lib
+*.idb
+*.manifest
+*.tlog
+*.log
+*.vsix
+*.builds
+*.pidb
+*.log
+*.tlog
+*.tlog/*
+*.lastbuildstate
+*.vsidx
+
 # Prerequisites
 *.d
 
